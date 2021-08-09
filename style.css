@@ -1,4 +1,42 @@
 *{
     padding: 0px;
     margin: 0px;
+    background-color: #7cffcb;
+    background-image: linear-gradient(315deg, #7cffcb 0%, #74f2ce 74%);
+
+}
+
+.box{
+    display: inline-block;
+    margin-left: 40%;
+    margin-top: 15vh;
+}
+
+
+
+#title{
+    display: block;
+    margin: 0px;
+    padding: 5px;
+    font-family: fangsong;
+    font-style: normal;
+    font-size: 66px;
+    
+}
+
+#num{
+    margin: 97px;
+    padding: 5px;
+    font-family: fangsong;
+    font-style: normal;
+    font-size: 12vh;
+    
+}
+
+.btn{
+
+    margin-top: 10px;
+    margin-right: 8vh;
+    margin-left: -3.7vh;
+    
 }
